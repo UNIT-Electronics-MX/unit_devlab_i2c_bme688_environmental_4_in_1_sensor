@@ -68,7 +68,7 @@
 
 ## Topology
 
-<div style="text-align: center;">
+<div align="center">
 <a href="./resources/unit_topology_v_1_0_0_bme688_environmental_sensor_4_in_1.png"><img src="./resources/unit_topology_v_1_0_0_bme688_environmental_sensor_4_in_1.png" width="450px"><br/> Topology</a>
 </div>
 <br/>
@@ -87,6 +87,6 @@
 
 ## Dimensions
 
-<div style="text-align: center;">
+<div align="center">
 <a href="./resources/unit_dimension_v_1_0_0_bme688_environmental_sensor_4_in_1.png"><img src="./resources/unit_dimension_v_1_0_0_bme688_environmental_sensor_4_in_1.png" width="500px"><br/> Dimensions</a>
 </div>
