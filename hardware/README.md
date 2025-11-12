@@ -40,6 +40,7 @@
 | Pressure sensor - RMS Noise                     | 0.12 Pa (equiv. to 1.7 cm)                                 |
 | Pressure sensor - Sensitivity Error             | ± 0.25 % (equiv. to 1 m at 400 m height change)            |
 | Pressure sensor - Temperature coefficient offset| ±1.3 Pa/K (equiv. to ±10.9 cm at 1°C temperature change)   |
+| I2C Address                                     | 0x77                                                       |
 
 ## Pinout
 
@@ -65,12 +66,6 @@
 
 </div>
 
-## Dimensions
-
-<div style="text-align: center;">
-<a href="./resources/unit_dimension_v_1_0_0_bme688_environmental_sensor_4_in_1.png"><img src="./resources/unit_dimension_v_1_0_0_bme688_environmental_sensor_4_in_1.png" width="500px"><br/> Dimensions</a>
-</div>
-
 ## Topology
 
 <div style="text-align: center;">
@@ -88,4 +83,10 @@
 | JP1  | 2.54 mm Castellated Holes                |
 | J1   | QWIIC Connector (JST 1 mm pitch) for I2C |
   
+</div>
+
+## Dimensions
+
+<div style="text-align: center;">
+<a href="./resources/unit_dimension_v_1_0_0_bme688_environmental_sensor_4_in_1.png"><img src="./resources/unit_dimension_v_1_0_0_bme688_environmental_sensor_4_in_1.png" width="500px"><br/> Dimensions</a>
 </div>
