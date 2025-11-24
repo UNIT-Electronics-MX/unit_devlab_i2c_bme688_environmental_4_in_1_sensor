@@ -15,8 +15,8 @@ The BME688 Environmental Sensor 4-in-1 is a compact module that integrates tempe
 ### Quick Setup
 
 
-[<img src="https://img.shields.io/badge/Product%20Wiki-blue?style=for-the-badge" alt="Product Wiki" target="_blank">](https://unit-electronics-mx.github.io/unit_bme688_environmental_sensor_4_in_1/mdbook/index.html)
-[<img src="https://img.shields.io/badge/Datasheet-green?style=for-the-badge" alt="Datasheet" target="_blank">](https://unit-electronics-mx.github.io/unit_bme688_environmental_sensor_4_in_1/datasheet_professional.html)
+[<img src="https://img.shields.io/badge/Product%20Wiki-blue?style=for-the-badge" alt="Product Wiki" target="_blank">](https://wiki.uelectronics.com/wiki/devlab-i2c-bme688-environmental-4-in-1)
+[<img src="https://img.shields.io/badge/Datasheet-green?style=for-the-badge" alt="Datasheet" target="_blank">](https://unit-electronics-mx.github.io/unit_devlab_i2c_bme688_environmental_4_in_1_sensor/hardware/unit_datasheet_v_0_0_2_ue0095_bme688_4_in_1_en.pdf)
 [<img src="https://img.shields.io/badge/Buy%20Now-orange?style=for-the-badge" alt="Buy Now" target="_blank">](https://uelectronics.com/)
 [<img src="https://img.shields.io/badge/Getting%20Started-purple?style=for-the-badge" alt="Getting Started" target="_blank">](https://unit-electronics-mx.github.io/unit_bme688_environmental_sensor_4_in_1/mdbook/software/getting-started.html)
 
