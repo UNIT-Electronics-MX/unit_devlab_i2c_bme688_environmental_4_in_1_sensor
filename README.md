@@ -4,7 +4,6 @@
 The BME688 Environmental Sensor 4-in-1 is a compact module that integrates temperature, humidity, barometric pressure, and gas sensing (including VOCs and IAQ) in a single package. Based on Bosch Sensortec technology, it offers digital I²C/SPI interfaces for easy integration with platforms like Arduino, ESP32, and Raspberry Pi. Its low power consumption and small size make it ideal for wearables, portable devices, and IoT applications. The sensor also supports AI-based gas classification via Bosch’s BME AI-Studio, enabling advanced air quality monitoring.
 
 
-
 <div align="center">
   <img src="hardware/resources/unit_top_v_1_0_0_bme688_enviromental_sensor_4_in_1.png" width="450px" alt="Development Board">
   <p><em></em></p>
@@ -13,7 +12,6 @@ The BME688 Environmental Sensor 4-in-1 is a compact module that integrates tempe
 <div align="center">
 
 ### Quick Setup
-
 
 [<img src="https://img.shields.io/badge/Product%20Wiki-blue?style=for-the-badge" alt="Product Wiki" target="_blank">](https://wiki.uelectronics.com/wiki/devlab-i2c-bme688-environmental-4-in-1)
 [<img src="https://img.shields.io/badge/Datasheet-green?style=for-the-badge" alt="Datasheet" target="_blank">](https://unit-electronics-mx.github.io/unit_devlab_i2c_bme688_environmental_4_in_1_sensor/hardware/unit_datasheet_v_0_0_2_ue0095_bme688_4_in_1_en.pdf)
@@ -43,7 +41,6 @@ The BME688 Environmental Sensor 4-in-1 is a compact module that integrates tempe
 
 ## Key Features
 
-
 - **Relative Humidity**: Accurately measures ambient moisture for precise environmental monitoring.
 - **Barometric Pressure**: Detects atmospheric pressure changes to support dynamic weather tracking.
 - **Excellent Temperature Stability**: Delivers consistent temperature readings even under varying conditions.
@@ -61,11 +58,7 @@ The BME688 Environmental Sensor 4-in-1 is a compact module that integrates tempe
 - **Wearable Devices:** Supports health and fitness wearables for environmental parameter monitoring.
 
 
-
 ## Resources
-
-- [<a href="./hardware/unit_sch_v_1_0_0_bme688_environmental_sensor_4_in_1.pdf">Schematic Diagram</a>](hardware/schematic.pdf)
-- [<a href="./hardware/unit_pinout_v_0_0_2_ue0095_bme688_4_in_1_en.pdf">Pinout Diagram</a>](hardware/pinout.pdf)
 
 - [Datasheet (Compatible with BME688)](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme688/#documents)
 
